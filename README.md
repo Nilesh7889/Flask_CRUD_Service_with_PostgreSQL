@@ -19,6 +19,8 @@ Simple Flask CRUD service with PostgreSQL.
 
    pip install Flask-Migrate
 
+   pip install psycopg2-binary
+
    
 ### Database setup
 1. Install PostgreSQL

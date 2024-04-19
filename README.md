@@ -11,7 +11,13 @@ Simple Flask CRUD service with PostgreSQL.
 1. Install Python version 3.8+ : https://www.python.org/downloads/
 2. Clone or download this repository
 3. Import project in IDE (PyCharm, VS Code)
-4. Install Flask and required pkgs: open terminal enter- pip install flask, pip install flask-sqlalchemy
+4. Install Flask and required pkgs: open terminal enter-
+  
+   pip install flask
+
+   pip install flask-sqlalchemy
+
+   pip install Flask-Migrate
 
    
 ### Database setup
